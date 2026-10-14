@@ -1,0 +1,12 @@
+{
+  "name": "challenge",
+  "main": "worker.js",
+  "compatibility_date": "2025-10-01",
+  "workers_dev": true,
+  "kv_namespaces": [
+    {
+      "binding": "KV_BINDING",
+      "id": "c378686e7b75425980ff315fc7222cfc"
+    }
+  ]
+}
